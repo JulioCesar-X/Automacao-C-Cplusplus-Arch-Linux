@@ -9,7 +9,7 @@ To set up the environment for automated project creation and compilation, follow
 1. Open a terminal.
 2. Clone the repository into a directory of your choice:
    ```bash
-   git clone <repository-url> ~/dev/project-automation
+   git clone https://github.com/JulioCesar-X/Automacao-C-Cplusplus-Arch-Linux.git ~/dev/project-automation
    ```
 3. Navigate to the cloned repository:
    ```bash
